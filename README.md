@@ -13,7 +13,7 @@
 
 ## 0x01 配置
 
-chatGPT-CodeReview会在~/.config/chatGPT-CodeReview/目录下生成config.json文件,将文件配置到1处：
+chatGPT-CodeReview会在~/.config/chatGPT-CodeReview/目录下生成config.json文件,将apikey配置到1处：
 
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/53268974/227969500-3f756986-2477-4693-8a92-39ba13a2b657.png">
