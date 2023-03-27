@@ -27,7 +27,10 @@ chatGPT-CodeReview会在~/.config/chatGPT-CodeReview/目录下生成config.json�
 ./chatGPT-CodeReview -f folder
 
 
+例子：
+
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/53268974/227970028-742392b6-ccdc-47fb-9af2-b463efb4a67a.png">
+
 
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/53268974/227972525-d258db9f-31ff-4952-baf1-e6640da343fb.png">
