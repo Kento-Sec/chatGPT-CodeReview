@@ -1,5 +1,5 @@
 # chatGPT-CodeReview
-
+[![Latest release](https://img.shields.io/github/v/release/Kento-Sec/chatGPT-CodeReview)](https://github.com/Kento-Sec/chatGPT-CodeReview/releases)![GitHub Release Date](https://img.shields.io/github/release-date/Kento-Sec/chatGPT-CodeReview)![GitHub All Releases](https://img.shields.io/github/downloads/Kento-Sec/chatGPT-CodeReview/total)[![GitHub issues](https://img.shields.io/github/issues/Kento-Sec/chatGPT-CodeReview)](https://github.com/Kento-Sec/chatGPT-CodeReview/issues)
 
 
 ***
